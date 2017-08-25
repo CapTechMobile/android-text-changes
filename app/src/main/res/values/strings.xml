@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidOTextChanges</string>
+    <string name="request_failed">Request failed because of error code: %1$d</string>
+</resources>
